@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "title": "NASA Airs Space Station R&D, Benefits to Humanity Conference",
+      "body": "NASA will highlight groundbreaking discoveries, benefits for humanity, and how the agency and its commercial and international partners will maximize research and development aboard the International Space Station at the 11th annual International Space Station Research and Development Conference.The conference runs Monday, July 25 to Thursday, July 28 in Washington. The full conference agenda is available online. NASA will provide live coverage of select panels from the conference on NASA Television, the NASA app, and the agency's website. The event coincides with the release of the 2022 edition of the International Space Station Benefits for Humanity publication highlighting the advances in scientific knowledge on Earth, and in space, physical, and biological sciences, aboard the microgravity laboratory for the benefits of people living on our home planet.",
+      "author": "Gerelle Dodson",
+      "date": "Jul 28, 2022",
+      "id": 1
+    },
+    {
+      "title": "Embracing a Rejected Star",
+      "body": "Zeta Ophiuchi is a star with a complicated past, having likely been ejected from its birthplace by a powerful stellar explosion. A new look by NASA's Chandra X-ray Observatory helps tell more of the story of this runaway star.'\\n' Located about 440 light-years from Earth, Zeta Ophiuchi is a hot star that is 20 times more massive than the Sun. Previous observations have provided evidence that Zeta Ophiuchi was once in close orbit with another star, before being ejected at about 100,000 miles per hour when this companion was destroyed in a supernova explosion over a million years ago. Previously released infrared data from NASA's now-retired Spitzer Space Telescope, seen in this new composite image, reveals a spectacular shock wave (red and green) that was formed by matter blowing away from the star's surface and slamming into gas in its path. Data from Chandra shows a bubble of X-ray emission (blue) located around the star, produced by gas that has been heated by the effects of the shock wave to tens of millions of degrees.'\\n' A team of astronomers led by Samuel Green from the Dublin Institute for Advanced Studies in Ireland has constructed the first detailed computer models of the shock wave. They have begun testing whether the models can explain the data obtained at different wavelengths, including X-ray, optical, infrared and radio observations. All three of the different computer models predict fainter X-ray emission than observed. The bubble of X-ray emission is brightest near the star, whereas two of the three computer models predict the X-ray emission should be brighter near the shock wave.",
+      "author": "Lee Mohon",
+      "date": "Jul 25, 2022",
+      "id": 2
+    },
+    {
+      "title": "NASA Space Robotics Dive into Deep-Sea Work",
+      "body": "What's the difference between deep space and the deep sea? For a robot, the answer is: not much. Both environments are harsh and demanding, and, more importantly, both are far removed from the machine's operator.'\\n'That's why a team of roboticists from NASA's Johnson Space Center in Houston decided to apply their expertise to designing a shape-changing submersible robot that will cut costs for maritime industries.",
+      "author": "Loura Hall",
+      "date": "Aug 2, 2022",
+      "id": 3
+    },
+    {
+      "title": "React",
+      "body": "Today I Created Blogging Website Using A React.js Framework. I want to Be Software Engineer. ",
+      "author": "Simon Abhijet Biswas",
+      "date": "2022-08-03",
+      "id": 4
+    }
+  ]
+}
